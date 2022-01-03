@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\Ubicacion-de-puntos-en-un-plano\proyecto10.11\proyecto10.11\bin\Debug\proyecto10.11.exe.config
+D:\Programas\Cursos\C# ya\Ubicacion-de-puntos-en-un-plano\proyecto10.11\proyecto10.11\bin\Debug\proyecto10.11.exe
+D:\Programas\Cursos\C# ya\Ubicacion-de-puntos-en-un-plano\proyecto10.11\proyecto10.11\bin\Debug\proyecto10.11.pdb
+D:\Programas\Cursos\C# ya\Ubicacion-de-puntos-en-un-plano\proyecto10.11\proyecto10.11\obj\Debug\proyecto10.11.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Ubicacion-de-puntos-en-un-plano\proyecto10.11\proyecto10.11\obj\Debug\proyecto10.11.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\Ubicacion-de-puntos-en-un-plano\proyecto10.11\proyecto10.11\obj\Debug\proyecto10.11.exe
+D:\Programas\Cursos\C# ya\Ubicacion-de-puntos-en-un-plano\proyecto10.11\proyecto10.11\obj\Debug\proyecto10.11.pdb
